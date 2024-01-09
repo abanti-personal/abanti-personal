@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="LEETCODE Badge"/>
+    <img src="https://miro.medium.com/v2/format:webp/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="LEETCODE Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
