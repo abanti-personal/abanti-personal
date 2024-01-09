@@ -14,7 +14,8 @@
 <!--
 **abanti-personal/abanti-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Glad to see you here!
+I am a python developer and currently working at Nutanix, Bangalore. I love to automate processes and find solutions to challenges.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
