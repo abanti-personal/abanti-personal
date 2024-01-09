@@ -1,10 +1,13 @@
 ### Hi there 👋, I am Abanti Chatterjee!
 <div id="badges">
   <a href="https://www.linkedin.com/in/abanti-chatterjee-a07870145/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/abantiChatterjee/">
-    <img src="https://img.shields.io/badge/leetcode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="LEETCODE Badge"/>
+    <img src="https://img.shields.io/badge/leetcode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://leetcode.com/abantiChatterjee/">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 
