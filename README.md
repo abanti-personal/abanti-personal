@@ -13,6 +13,7 @@
 
 <!--
 **abanti-personal/abanti-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Glad to see you here!
 I am a python developer and currently working at Nutanix, Bangalore. I love to automate processes and find solutions to challenges.
@@ -25,4 +26,3 @@ I am a python developer and currently working at Nutanix, Bangalore. I love to a
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
