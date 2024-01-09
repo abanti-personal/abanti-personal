@@ -3,11 +3,8 @@
   <a href="https://www.linkedin.com/in/abanti-chatterjee-a07870145/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="LEETCODE Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://leetcode.com/abantiChatterjee/">
+    <img src="https://img.shields.io/badge/leetcode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="LEETCODE Badge"/>
   </a>
 </div>
 
